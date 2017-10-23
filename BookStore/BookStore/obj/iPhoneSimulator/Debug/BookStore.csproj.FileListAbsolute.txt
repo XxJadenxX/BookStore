@@ -1,0 +1,9 @@
+/Users/jadenl1/Desktop/Repose/BookStore/BookStore/BookStore/bin/iPhoneSimulator/Debug/BookStore.exe
+/Users/jadenl1/Desktop/Repose/BookStore/BookStore/BookStore/bin/iPhoneSimulator/Debug/BookStore.pdb
+/Users/jadenl1/Desktop/Repose/BookStore/BookStore/BookStore/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-10.3.1/ibtool/_BundleResourceWithLogicalName.items
+/Users/jadenl1/Desktop/Repose/BookStore/BookStore/BookStore/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-10.3.1/actool/_PartialAppManifest.items
+/Users/jadenl1/Desktop/Repose/BookStore/BookStore/BookStore/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-10.3.1/actool/_BundleResourceWithLogicalName.items
+/Users/jadenl1/Desktop/Repose/BookStore/BookStore/BookStore/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-10.3.1/optimized/
+/Users/jadenl1/Desktop/Repose/BookStore/BookStore/BookStore/obj/iPhoneSimulator/Debug/BookStore.csproj.CoreCompileInputs.cache
+/Users/jadenl1/Desktop/Repose/BookStore/BookStore/BookStore/obj/iPhoneSimulator/Debug/BookStore.exe
+/Users/jadenl1/Desktop/Repose/BookStore/BookStore/BookStore/obj/iPhoneSimulator/Debug/BookStore.pdb

@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BookStore", "BookStore\BookStore.csproj", "{12B5EC7F-3C68-4B9C-BFD8-53908B239D5C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhone = Release|iPhone
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{12B5EC7F-3C68-4B9C-BFD8-53908B239D5C}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{12B5EC7F-3C68-4B9C-BFD8-53908B239D5C}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{12B5EC7F-3C68-4B9C-BFD8-53908B239D5C}.Release|iPhone.ActiveCfg = Release|iPhone
+		{12B5EC7F-3C68-4B9C-BFD8-53908B239D5C}.Release|iPhone.Build.0 = Release|iPhone
+		{12B5EC7F-3C68-4B9C-BFD8-53908B239D5C}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{12B5EC7F-3C68-4B9C-BFD8-53908B239D5C}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+		{12B5EC7F-3C68-4B9C-BFD8-53908B239D5C}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{12B5EC7F-3C68-4B9C-BFD8-53908B239D5C}.Debug|iPhone.Build.0 = Debug|iPhone
+	EndGlobalSection
+EndGlobal
